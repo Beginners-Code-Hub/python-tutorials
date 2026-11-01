@@ -5,3 +5,4 @@ Source code for the Beginners Code Hub YouTube tutorials. One folder per video.
 ## Tutorials
 - [Python decorators explained](decorators/)
 - [Python Object-oriented programming](oop/)
+- [Python CRUD with Tkinter and SQLite](crud-tkinter-sqlite/)
